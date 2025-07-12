@@ -1,0 +1,168 @@
+[
+  {
+    "id": "school-agri-food",
+    "name": "School of Agricultural and Food Engineering",
+    "departments": [
+      {
+        "id": "food-process",
+        "name": "Food Process Engineering",
+        "overview": "Focuses on the transformation of raw agricultural products into safe, nutritious, and consumable food products using engineering principles.",
+        "careerOpportunities": [
+          "Food Production Manager",
+          "Quality Assurance Specialist",
+          "R&D Scientist",
+          "Food Safety Inspector"
+        ]
+      },
+      {
+        "id": "post-harvest",
+        "name": "Post-Harvest Technology",
+        "overview": "Deals with techniques and technologies to reduce post-harvest losses, improve storage, and enhance shelf life of agricultural products.",
+        "careerOpportunities": [
+          "Storage Facility Manager",
+          "Post-Harvest Researcher",
+          "Food Supply Chain Analyst"
+        ]
+      },
+      {
+        "id": "agri-eng",
+        "name": "Agricultural Engineering",
+        "overview": "Applies engineering science and technology to agricultural production and processing.",
+        "careerOpportunities": [
+          "Irrigation Engineer",
+          "Farm Equipment Designer",
+          "Agricultural Consultant"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "school-arch-plan",
+    "name": "School of Architecture and Urban Planning",
+    "departments": [
+      {
+        "id": "architecture",
+        "name": "Architecture",
+        "overview": "Covers the art and science of designing buildings and structures with aesthetics, functionality, and sustainability in mind.",
+        "careerOpportunities": [
+          "Architect",
+          "Urban Designer",
+          "Building Information Modeling (BIM) Specialist"
+        ]
+      },
+      {
+        "id": "urban-planning",
+        "name": "Urban & Regional Planning",
+        "overview": "Focuses on the planning and development of land use in urban and rural environments.",
+        "careerOpportunities": [
+          "City Planner",
+          "GIS Analyst",
+          "Regional Development Consultant"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "school-civil-env",
+    "name": "School of Civil and Environmental Engineering",
+    "departments": [
+      {
+        "id": "civil",
+        "name": "Civil Engineering",
+        "overview": "Involves designing, constructing, and maintaining infrastructure projects like roads, bridges, and buildings.",
+        "careerOpportunities": [
+          "Structural Engineer",
+          "Construction Manager",
+          "Site Engineer"
+        ]
+      },
+      {
+        "id": "hydraulic",
+        "name": "Hydraulic & Water Resource Engineering",
+        "overview": "Deals with the flow and conveyance of fluids, particularly water and sewage.",
+        "careerOpportunities": [
+          "Water Resource Engineer",
+          "Hydrologist",
+          "Irrigation System Designer"
+        ]
+      },
+      {
+        "id": "ctm",
+        "name": "Construction Technology & Management",
+        "overview": "Focuses on the planning, coordination, and control of construction projects.",
+        "careerOpportunities": [
+          "Project Manager",
+          "Construction Planner",
+          "Site Supervisor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "school-informatics-electrical",
+    "name": "School of Informatics and Electrical Engineering",
+    "departments": [
+      {
+        "id": "cs",
+        "name": "Computer Science",
+        "overview": "The CS Department is a hub for technological advancement, focusing on programming, cybersecurity, and problem-solving.",
+        "careerOpportunities": [
+          "Software Developer",
+          "Data Scientist",
+          "Cybersecurity Analyst",
+          "AI/ML Engineer",
+          "Web Developer",
+          "Cloud Engineer"
+        ]
+      },
+      {
+        "id": "it",
+        "name": "Information Technology",
+        "overview": "Focuses on the application of computer systems and technology to solve business and communication problems.",
+        "careerOpportunities": [
+          "IT Support Specialist",
+          "Network Administrator",
+          "System Analyst",
+          "Database Administrator"
+        ]
+      },
+      {
+        "id": "ece",
+        "name": "Electrical and Computer Engineering",
+        "overview": "Combines electrical engineering with computer science to develop computing systems and electronic devices.",
+        "careerOpportunities": [
+          "Embedded Systems Engineer",
+          "Hardware Engineer",
+          "Control Systems Engineer",
+          "Electronics Design Engineer"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "school-mech-industrial",
+    "name": "School of Mechanical and Industrial Engineering",
+    "departments": [
+      {
+        "id": "mechanical",
+        "name": "Mechanical Engineering",
+        "overview": "Applies engineering principles to design, analyze, and manufacture mechanical systems.",
+        "careerOpportunities": [
+          "Mechanical Design Engineer",
+          "Maintenance Engineer",
+          "Product Development Engineer"
+        ]
+      },
+      {
+        "id": "industrial",
+        "name": "Industrial Engineering",
+        "overview": "Focuses on optimizing complex processes or systems to improve quality and productivity.",
+        "careerOpportunities": [
+          "Process Improvement Engineer",
+          "Operations Analyst",
+          "Quality Control Engineer"
+        ]
+      }
+    ]
+  }
+]
